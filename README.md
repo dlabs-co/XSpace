@@ -112,9 +112,9 @@ Finally overcome this difficulty, and with the right way to connect the video ga
 The final scenario were selected as the one of the most important moments in the history of the space race, 20 of July of 1969 with the first moon landing.
 
 <p align="center">
-  <img  src="Documentation/media/friendspace.jpg" width="200"/>
-  <img  src="Documentation/media/oculuspair.jpg" width="250"/>
-  <img  src="Documentation/media/softdeveloper.jpg" width="200"/>
+  <img  src="Documentation/media/friendspace.jpg" height="250"/>
+  <img  src="Documentation/media/oculuspair.jpg" height="250"/>
+  <img  src="Documentation/media/softdeveloper.jpg" height="250"/>
 </p>
   
 <h3>The Firmware</h3>
@@ -126,8 +126,8 @@ It is necessary a intermediate to translate the acts from the virtual reality to
 To do this work, we are using an arduino microcontroller, which is connected to the main computer via serial com. The arduino receives the information in a protocol quite simple, but very scalable.
 
 <p align="center">
-  <img  src="Documentation/media/arduino1.png" width="200"/>
-  <img  src="Documentation/media/arduino2.png" width="200"/>
+  <img  src="Documentation/media/arduino1.png" width="500"/>
+  <img  src="Documentation/media/arduino2.png" width="500"/>
 </p>
 
 
@@ -138,9 +138,9 @@ The hardware was quite difficult to make, cause it was a special holiday 23 of A
 One of the most common micro controller is the arduino and we use the Nano Version. And we can control till 7 motors, one servo, and stapler machine, to actuate over the “pilot chair”.
 
 <p align="center">
-  <img  src="Documentation/media/hardwarejob.jpg" width="200"/>
-  <img  src="Documentation/media/Constructor.jpg" width="200"/>
-  <img  src="Documentation/media/ArduinoScheme.jpg" width="200"/>
+  <img  src="Documentation/media/hardwarejob.jpg" height="300"/>
+  <img  src="Documentation/media/Constructor.jpg" height="300"/>
+  <img  src="Documentation/media/ArduinoScheme.jpg" height="300"/>
 </p>
 
 The worse problem was the time to build a “pilot chair” with not to much material, but we find a group of motors recycled from old photocopiers, a batteries, an office chair.
