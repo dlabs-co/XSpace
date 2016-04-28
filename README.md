@@ -148,8 +148,8 @@ The worse problem was the time to build a “pilot chair” with not to much mat
 To convert the motor in vibrators we add a clamp to each shaft, making the center of masses is different to the center of movement.
 
 <p align="center">
-  <img  src="Documentation/media/sill3.jpg" width="200"/>
-  <img  src="Documentation/media/silla6.jpg" width="200"/>
+  <img  src="Documentation/media/sill3.jpg" height="200"/>
+  <img  src="Documentation/media/silla6.jpg" height="200"/>
 </p>
 
 Almost the movements were produced by seven motors with clamps which produce a chair with a lot of vibrations, controlled in intensity by the firmware.
