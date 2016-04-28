@@ -18,11 +18,10 @@ The system is a combination of software to build the virtual world, and simulati
 
 To get into the virtual world we use a special goggles used in combination with a system controller that senses your hands moving naturally in 3D virtual world, all this information is registered by our solution and give the orders to the pilot chair to make the movements simulating any phase of trip of a spaceship.
 
-This project is solving the Launch: A global experience:
+This project is solving the Launch: ![A global experience:](https://2016.spaceappschallenge.org/challenges/space-station/launch-a-global-experience)
 
-https://2016.spaceappschallenge.org/challenges/space-station/launch-a-global-experience
 
-<h1>Project: Xspace</h1>
+<h2>Project: Xspace</h2>
 
 The multimedia resources and the virtual world will give the opportunity to become an astronaut, making the experience of launch, landing, or the life off earth, affordable to every one.
 
