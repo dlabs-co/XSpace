@@ -18,7 +18,7 @@ The system is a combination of software to build the virtual world, and simulati
 
 To get into the virtual world we use a special goggles used in combination with a system controller that senses your hands moving naturally in 3D virtual world, all this information is registered by our solution and give the orders to the pilot chair to make the movements simulating any phase of trip of a spaceship.
 
-This project is solving the Launch: ![A global experience:](https://2016.spaceappschallenge.org/challenges/space-station/launch-a-global-experience)
+This project is solving <a href="https://2016.spaceappschallenge.org/challenges/space-station/launch-a-global-experience"> the Launch: A global experience</a>
 
 
 <h2>Project: Xspace</h2>
@@ -167,5 +167,5 @@ This system is controlled by one stapler machine converted in a machine that pul
 
 The Dlabs team is formed by 6 person with a very different skills, from student in electronics to electronic engineers or computing engineers, and all of us with the same passion, to hack  any thing, and learn all the possible related with technology, or science and arts too.
 
-![Dlabs](https://www.dlabs.co) is a non profit association and our philosophy is to share the new technologies, based 
+<a href ="https://www.dlabs.co"> Dlabs</a> is a non profit association and our philosophy is to share the new technologies, based 
 
