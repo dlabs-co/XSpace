@@ -12,9 +12,9 @@ response in the real world..
 ![alt tag](https://github.com/dlabs-co/XSpace/tree/master/Documentation/media/LeapMotionPack.jpg)
 
 <p >
-  <img align="left" src="Documentation/media/LeapMotionPack.jpg" width="350"/>
-  <img align="center" src="Documentation/media/LeapMotionPack.jpg" width="350"/>
-  <img align="right" src="Documentation/media/LeapMotionPack.jpg" width="350"/>
+  <img align="left" src="Documentation/media/LeapMotionPack.jpg" width="200"/>
+  <img align="center" src="Documentation/media/LeapMotionPack.jpg" width="200"/>
+  <img align="right" src="Documentation/media/LeapMotionPack.jpg" width="200"/>
   
 </p>
 
