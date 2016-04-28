@@ -11,7 +11,16 @@ response in the real world..
 
 ![alt tag](https://github.com/dlabs-co/XSpace/tree/master/Documentation/media/LeapMotionPack.jpg)
 
+<p align="left">
+  <img src="Documentation/media/LeapMotionPack.jpg" width="350"/>
+  
+</p>
 <p align="center">
+  <img src="Documentation/media/LeapMotionPack.jpg" width="350"/>
+  
+</p>
+
+<p align="right">
   <img src="Documentation/media/LeapMotionPack.jpg" width="350"/>
   
 </p>
