@@ -5,13 +5,6 @@ Xspace is an open source platform that permits to any one to become an astronaut
 
 ![alt tag](https://github.com/dlabs-co/XSpace/tree/master/Documentation/media/LeapMotionPack.jpg)
 
-<p align="center">
-  <img  src="Documentation/media/LeapMotionPack.jpg" width="200"/>
-  <img  src="Documentation/media/LeapMotionPack.jpg" width="200"/>
-  <img  src="Documentation/media/LeapMotionPack.jpg" width="200"/>
-  
-</p>
-
 The virtual reality is a new emerging technology that allows the integration of the human into the new world, with out any limitations.
 
 The system is a combination of software to build the virtual world, and simulating the live off earth and hardware to give to the user more realistic feelings.
@@ -62,15 +55,30 @@ A different kind of hardware were used in this project.
 
 <b>Commercial hardware:</b>
 
-Leap Motion: This device is a computer hardware that supports hand and fingers motions as inputs, requires no hand contact or touch. Composed by two monochromatic infrared cameras, and three infrared leds
+Leap Motion: This device is a computer hardware that supports hand and fingers motions as inputs, requires no hand contact or touch. Composed by two monochromatic infrared cameras, and three infrared leds.
+
+<p align="center">
+  <img  src="Documentation/media/LeapMotionPack.jpg" width="200"/>
+</p>
 
 Oculus: This device is the virtual reality headset that permit sight into the virtual world.
 
 The Oculus hardware have a stereoscopic vision, gyroscopes, accelerometers, etc.
 
+<p align="center">
+  <img  src="Documentation/media/OculusPack.jpg" width="200"/>
+</p>
+
 Pilot chair: This is our hardware, hand made, we have recycling material like electric motors, batteries, office chair. The micro controller is an arduino, with motor drivers, sensors, security stop, etc.
 
-How the project was made
+<p align="center">
+  <img  src="Documentation/media/silla1.jpg" width="200"/>
+  <img  src="Documentation/media/silla2.jpg" width="200"/>
+  <img  src="Documentation/media/silla3.jpg" width="200"/>
+  
+</p>
+
+<b>How the project was made</b>
 
 The project is really a bit complicated, cause include software and hardware, with a very high level of knowledge in video game develop and also a high level of knowledge in electronics to control the actuators with the micro controller
 
@@ -86,6 +94,13 @@ Finally overcome this difficulty, and with the right way to connect the video ga
 
 The final scenario were selected as the one of the most important moments in the history of the space race, 20 of july of 1969 with the first moon landing.
 
+<p align="center">
+  <img  src="Documentation/media/friendspace.jpg" width="200"/>
+  <img  src="Documentation/media/oculuspair.jpg" width="200"/>
+  <img  src="Documentation/media/softdeveloper.jpg" width="200"/>
+  
+</p>
+
 <b>The hardware</b>
 
 The hardware was quite difficult to make, cause it was a special holiday 23 of April is our patron Saint and is not possible buy nothing to build a better solution, by the way, we use a lot of recycling materials, like electric motors, office chair.
@@ -93,6 +108,14 @@ The hardware was quite difficult to make, cause it was a special holiday 23 of A
 One of the most common micro controller is the arduino and we use the Nano
 
 Version. And we can control till 7 motors, one servo, and stapler machine, to actuate over the “pilot chair”
+
+<p align="center">
+  <img  src="Documentation/media/hardwarejob.jpg" width="200"/>
+  <img  src="Documentation/media/silla6.jpg" width="200"/>
+  <img  src="Documentation/media/silla7.jpg" width="200"/>
+  
+</p>
+
 
 The worse problem was the time to build a “pilot chair” with not to much material, but we find a group of motors recycled from old photocopiers, a batteries , an office chair.
 
