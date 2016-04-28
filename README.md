@@ -3,12 +3,12 @@ XSpace is a project developed in NASA´s SpaceApps Challenge. This project is a 
 
 Xspace is an open source platform that permits to any one to become an astronaut, the project is made from scratch during the space apps. It has an interface human-machine, that permits to the user get into a virtual reality and interacts in the virtual world and have a response in the real world.
 
-<ul>
+
 ![Documentation](https://github.com/dlabs-co/XSpace/tree/master/Documentation)
 ![Software](https://github.com/dlabs-co/XSpace/tree/master/Documentation)
 ![Hardware](https://github.com/dlabs-co/XSpace/tree/master/Documentation)
 ![Videos](https://github.com/dlabs-co/XSpace/tree/master/Documentation)
-</ul>
+
 The virtual reality is a new emerging technology that allows the integration of the human into the new world, with out any limitations.
 
 The system is a combination of software to build the virtual world, and simulating the live off earth and hardware to give to the user more realistic feelings.
