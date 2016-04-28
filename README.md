@@ -126,8 +126,8 @@ It is necessary a intermediate to translate the acts from the virtual reality to
 To do this work, we are using an arduino microcontroller, which is connected to the main computer via serial com. The arduino receives the information in a protocol quite simple, but very scalable.
 
 <p align="center">
-  <img  src="Documentation/media/arduino1.png" width="500"/>
-  <img  src="Documentation/media/arduino2.png" width="500"/>
+  <img  src="Documentation/media/arduino1.png" width="300"/>
+  <img  src="Documentation/media/arduino2.png" width="300"/>
 </p>
 
 
@@ -138,9 +138,9 @@ The hardware was quite difficult to make, cause it was a special holiday 23 of A
 One of the most common micro controller is the arduino and we use the Nano Version. And we can control till 7 motors, one servo, and stapler machine, to actuate over the “pilot chair”.
 
 <p align="center">
-  <img  src="Documentation/media/hardwarejob.jpg" height="300"/>
-  <img  src="Documentation/media/Constructor.jpg" height="300"/>
-  <img  src="Documentation/media/ArduinoScheme.jpg" height="300"/>
+  <img  src="Documentation/media/hardwarejob.jpg" height="200"/>
+  <img  src="Documentation/media/Constructor.jpg" height="200"/>
+  <img  src="Documentation/media/ArduinoScheme.jpg" height="200"/>
 </p>
 
 The worse problem was the time to build a “pilot chair” with not to much material, but we find a group of motors recycled from old photocopiers, a batteries, an office chair.
@@ -148,24 +148,22 @@ The worse problem was the time to build a “pilot chair” with not to much mat
 To convert the motor in vibrators we add a clamp to each shaft, making the center of masses is different to the center of movement.
 
 <p align="center">
-  <img  src="Documentation/media/sill3.jpg" height="200"/>
-  <img  src="Documentation/media/silla6.jpg" height="200"/>
+   <img  src="Documentation/media/silla6.jpg" height="200"/>
+   <img  src="Documentation/media/sill3.jpg" height="200"/>
+   <img  src="Documentation/media/silla4.jpg" height="200"/>
 </p>
 
 Almost the movements were produced by seven motors with clamps which produce a chair with a lot of vibrations, controlled in intensity by the firmware.
 
 But the chair have two more actuators, one to lean back the chair triggered by a servo. The servo is coupling to the chair using a 3D  piece which trigger a lever and the chair lean back.
 
-<p align="center">
-  <img  src="Documentation/media/silla4.jpg" width="200"/>
-</p>
 
 The last movement is the chair moving down. The chair has a pseudo pneumatic system when it is triggered the chair goes down simulating the landing moment.
 
 This system is controlled by one stapler machine converted in a machine that pull from the lever and release the air making the chair begin to descend.
 
 <p align="center">
-  <img  src="Documentation/media/silla5.jpg" width="200"/>
+  <img  src="Documentation/media/silla5.jpg" height="200"/>
 </p>
 
 The Dlabs team is formed by 6 person with a very different skills, from student in electronics to electronic engineers or computing engineers, and all of us with the same passion, to hack  any thing, and learn all the possible related with technology, or science and arts too.
