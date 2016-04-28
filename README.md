@@ -11,6 +11,11 @@ response in the real world..
 
 ![alt tag](https://github.com/dlabs-co/XSpace/tree/master/Documentation/media/LeapMotionPack.jpg)
 
+<p align="center">
+  <img src="Documentation/media/LeapMotionPack.jpg" width="350"/>
+  
+</p>
+
 The virtual reality is a new emerging technology that allows the integration of the
 
 human into the new world, with out any limitations.
