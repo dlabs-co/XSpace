@@ -5,8 +5,11 @@ Xspace is an open source platform that permits to any one to become an astronaut
 
 
 ![Documentation](https://github.com/dlabs-co/XSpace/tree/master/Documentation)
+<br>
 ![Software](https://github.com/dlabs-co/XSpace/tree/master/Documentation)
+<br>
 ![Hardware](https://github.com/dlabs-co/XSpace/tree/master/Documentation)
+<br>
 ![Videos](https://github.com/dlabs-co/XSpace/tree/master/Documentation)
 
 The virtual reality is a new emerging technology that allows the integration of the human into the new world, with out any limitations.
