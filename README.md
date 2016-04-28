@@ -3,11 +3,12 @@ XSpace is a project developed in NASA´s SpaceApps Challenge. This project is a 
 
 Xspace is an open source platform that permits to any one to become an astronaut, the project is made from scratch during the space apps. It has an interface human-machine, that permits to the user get into a virtual reality and interacts in the virtual world and have a response in the real world.
 
-![Documentation](https://github.com/dlabs-co/XSpace/tree/master/Documentation)
-![Software](https://github.com/dlabs-co/XSpace/tree/master/Documentation)
-![Hardware](https://github.com/dlabs-co/XSpace/tree/master/Documentation)
-![Videos](https://github.com/dlabs-co/XSpace/tree/master/Documentation)
-
+<ul>
+<li>![Documentation](https://github.com/dlabs-co/XSpace/tree/master/Documentation)</li>
+<li>![Software](https://github.com/dlabs-co/XSpace/tree/master/Documentation)</li>
+<li>![Hardware](https://github.com/dlabs-co/XSpace/tree/master/Documentation)</li>
+<li>![Videos](https://github.com/dlabs-co/XSpace/tree/master/Documentation)</li>
+</ul>
 The virtual reality is a new emerging technology that allows the integration of the human into the new world, with out any limitations.
 
 The system is a combination of software to build the virtual world, and simulating the live off earth and hardware to give to the user more realistic feelings.
@@ -109,7 +110,7 @@ The final scenario were selected as the one of the most important moments in the
 
 <p align="center">
   <img  src="Documentation/media/friendspace.jpg" width="200"/>
-  <img  src="Documentation/media/oculuspair.jpg" width="200"/>
+  <img  src="Documentation/media/oculuspair.jpg" width="250"/>
   <img  src="Documentation/media/softdeveloper.jpg" width="200"/>
 </p>
   
@@ -122,8 +123,8 @@ It is necessary a intermediate to translate the acts from the virtual reality to
 To do this work, we are using an arduino microcontroller, which is connected to the main computer via serial com. The arduino receives the information in a protocol quite simple, but very scalable.
 
 <p align="center">
-  <img  src="Documentation/media/friendspace.jpg" width="200"/>
-  <img  src="Documentation/media/oculuspair.jpg" width="200"/>
+  <img  src="Documentation/media/arduino1.png" width="200"/>
+  <img  src="Documentation/media/arduino2.png" width="200"/>
 </p>
 
 
@@ -135,8 +136,8 @@ One of the most common micro controller is the arduino and we use the Nano Versi
 
 <p align="center">
   <img  src="Documentation/media/hardwarejob.jpg" width="200"/>
-  <img  src="Documentation/media/silla6.jpg" width="200"/>
-  <img  src="Documentation/media/silla7.jpg" width="200"/>
+  <img  src="Documentation/media/Constructor.jpg" width="200"/>
+  <img  src="Documentation/media/ArduinoScheme.jpg" width="200"/>
 </p>
 
 The worse problem was the time to build a “pilot chair” with not to much material, but we find a group of motors recycled from old photocopiers, a batteries, an office chair.
@@ -144,7 +145,7 @@ The worse problem was the time to build a “pilot chair” with not to much mat
 To convert the motor in vibrators we add a clamp to each shaft, making the center of masses is different to the center of movement.
 
 <p align="center">
-  <img  src="Documentation/media/hardwarejob.jpg" width="200"/>
+  <img  src="Documentation/media/sill3.jpg" width="200"/>
   <img  src="Documentation/media/silla6.jpg" width="200"/>
 </p>
 
@@ -153,7 +154,7 @@ Almost the movements were produced by seven motors with clamps which produce a c
 But the chair have two more actuators, one to lean back the chair triggered by a servo. The servo is coupling to the chair using a 3D  piece which trigger a lever and the chair lean back.
 
 <p align="center">
-  <img  src="Documentation/media/hardwarejob.jpg" width="200"/>
+  <img  src="Documentation/media/silla4.jpg" width="200"/>
 </p>
 
 The last movement is the chair moving down. The chair has a pseudo pneumatic system when it is triggered the chair goes down simulating the landing moment.
@@ -161,7 +162,7 @@ The last movement is the chair moving down. The chair has a pseudo pneumatic sys
 This system is controlled by one stapler machine converted in a machine that pull from the lever and release the air making the chair begin to descend.
 
 <p align="center">
-  <img  src="Documentation/media/hardwarejob.jpg" width="200"/>
+  <img  src="Documentation/media/silla5.jpg" width="200"/>
 </p>
 
 The Dlabs team is formed by 6 person with a very different skills, from student in electronics to electronic engineers or computing engineers, and all of us with the same passion, to hack  any thing, and learn all the possible related with technology, or science and arts too.
