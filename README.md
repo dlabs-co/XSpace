@@ -3,7 +3,9 @@
 
 <b>Xspace</b> is an open source platform that permits to any one to become an astronaut, the project is made from scratch during the space apps. It has an interface human-machine, that permits to the user get into a virtual reality and interacts in the virtual world and have a response in the real world.
 
-[![Video](Documentation/media/LeapMotionPack.jpg)](https://www.youtube.com/watch?v=b8QlwMZV6AQ)
+<p align="center">
+	[![Video](Documentation/media/Space_Apps_2016.jpg)](https://www.youtube.com/watch?v=b8QlwMZV6AQ)
+</p>
 
 ![Documentation](https://github.com/dlabs-co/XSpace/tree/master/Documentation)
 <br>
