@@ -1,8 +1,9 @@
 # XSpace
-XSpace is a project developed in NASA´s SpaceApps Challenge. This project is a VR motion chair with Unity, Oculus, LeapMotion and Arduino.
+<b>XSpace</b> is a project developed in <b>NASA´s SpaceApps Challenge</b>. This project is a VR motion chair with Unity, Oculus, LeapMotion and Arduino.
 
-Xspace is an open source platform that permits to any one to become an astronaut, the project is made from scratch during the space apps. It has an interface human-machine, that permits to the user get into a virtual reality and interacts in the virtual world and have a response in the real world.
+<b>Xspace</b> is an open source platform that permits to any one to become an astronaut, the project is made from scratch during the space apps. It has an interface human-machine, that permits to the user get into a virtual reality and interacts in the virtual world and have a response in the real world.
 
+[![Video](Documentation/media/LeapMotionPack.jpg)](https://www.youtube.com/watch?v=b8QlwMZV6AQ)
 
 ![Documentation](https://github.com/dlabs-co/XSpace/tree/master/Documentation)
 <br>
@@ -16,7 +17,7 @@ The virtual reality is a new emerging technology that allows the integration of 
 
 The system is a combination of software to build the virtual world, and simulating the live off earth and hardware to give to the user more realistic feelings.
 
-To get into the virtual world we use a special goggles used in combination with a system controller that senses your hands moving naturally in 3D virtual world, all this information is registered by our solution and give the orders to the pilot chair to make the movements simulating any phase of trip of a spaceship.
+To get into the virtual world we use a special goggles used in combination with a system controller that senses your hands moving naturally in <b>3D virtual world</b>, all this information is registered by our solution and give the orders to the pilot chair to make the movements simulating any phase of trip of a spaceship.
 
 This project is solving <a href="https://2016.spaceappschallenge.org/challenges/space-station/launch-a-global-experience"> the Launch: A global experience</a>
 
@@ -27,9 +28,9 @@ The multimedia resources and the virtual world will give the opportunity to beco
 
 The use of virtual reality will give an absorptive and interactive sensation.
 	
-The project would like to commemorate one of the most important moments of the space race, the landing on the Moon the 20 of July in 1969.
+The project would like to commemorate one of the most important moments of the space race, the landing on the Moon the <b>20 of July in 1969</b>.
 
-We decided to create a scenario with the Apollo 11 at the right moment of moon landing. So finally all  can feel the same as Neil Armstrong, Michael Collins, and Edwin Aldrin.
+We decided to create a scenario with the <b>Apollo 11</b> at the right moment of moon landing. So finally all  can feel the same as Neil Armstrong, Michael Collins, and Edwin Aldrin.
 
 <ul>
   <li><h4>Challenge:</h4> Our solution is a platform that permits any one become in astronaut, and feel the same as a real astronaut, giving the possibility live any phase at the spaceship,  launch, travel, landing, or any problem that could occur on the off earth trip.
@@ -51,7 +52,7 @@ We decided to create a scenario with the Apollo 11 at the right moment of moon l
 
 <h1>Applicatons</h1>
 
-The Xspace platform allow to interact in the virtual world of the trip off earth. The main application in the current challenge is to give a first person experience to every one at the different phases of a space trip. Also this platform could be used in different ways:
+The <b>Xspace</b> platform allow to interact in the virtual world of the trip off earth. The main application in the current challenge is to give a first person experience to every one at the different phases of a space trip. Also this platform could be used in different ways:
 
 <lu>
   <li>To train astronauts, that can feel the same things as on the trip off earth. The scenarios can be changed to put the astronauts in many different situations, with out any real risk, but could give the skill needed in a real trip off earth.</li>
@@ -63,9 +64,9 @@ The Xspace platform allow to interact in the virtual world of the trip off earth
 
 <h3>Software:</h3>
 
-The software used is Unity, that is a cross-platform game engine, which is used to develop video games. The core functionality include rendering for 2D and 3D, physics engines, collision detection, sound, animation, networking, etc. But one of the most important part is the scripting, this permits to the developers  create a “game” and interact with it.
+The software used is <b>Unity</b>, that is a cross-platform game engine, which is used to develop video games. The core functionality include rendering for 2D and 3D, physics engines, collision detection, sound, animation, networking, etc. But one of the most important part is the scripting, this permits to the developers create a “game” and interact with it.
 
-<h3>Firmware:</h3> The firmware at the side of the micro controller is the bridge between the main software made with Unity and the actuators. This firmware reside in one arduino board, which  receive the orders and will move the right actuators like, motors, servos, signals, etc.
+<h3>Firmware:</h3> The firmware at the side of the micro controller is the bridge between the main software made with Unity and the actuators. This firmware reside in one <b>arduino board</b>, which  receive the orders and will move the right actuators like, motors, servos, signals, etc.
 
 <h3>Hardware:</h3>
 
@@ -76,13 +77,13 @@ A different kind of hardware were used in this project, like motors, servos, lev
   <h4>Leap Motion:</h4> This device is a computer hardware that supports hand and fingers motions as inputs, requires no hand contact or touch. Composed by two monochromatic infrared cameras, and three infrared leds.
 
 <p align="center">
-  <img  src="Documentation/media/LeapMotionPack.jpg" width="200"/>
+  <img  src="Documentation/media/LeapMotionPack.jpg" width="300"/>
 </p>
 
   <h4>Oculus:</h4> This device is the virtual reality headset that permit sight into the virtual world. The Oculus hardware have a stereoscopic vision, gyroscopes, accelerometers, etc...
 
 <p align="center">
-  <img  src="Documentation/media/OculusPack.jpg" width="200"/>
+  <img  src="Documentation/media/OculusPack.jpg" width="300"/>
 </p>
 
   <h4>Pilot chair:</h4> This is our hardware, hand made, we have recycling material like electric motors, batteries, office chair. The micro controller is an  arduino, with motor drivers, sensors, security stop,  etc...
@@ -98,7 +99,7 @@ A different kind of hardware were used in this project, like motors, servos, lev
 
 The project is really a bit complicated, cause include software and hardware, with a very high level of knowledge in video game develop and also a high level of knowledge in electronics to control the actuators with the micro controller.
 
-So the project has to branch  in two different ways. The software and hardware.
+So the project has to branch  in two different ways. <b>Software and hardware</b>.
 
 <h3>The software</h3>
 
@@ -134,7 +135,7 @@ To do this work, we are using an arduino microcontroller, which is connected to 
 
 The hardware was quite difficult to make, cause it was a special holiday 23 of April is our patron Saint and is not possible buy nothing to build a better solution, by the way, we use a lot of recycling materials, like electric motors, office chair.
 
-One of the most common micro controller is the arduino and we use the Nano Version. And we can control till 7 motors, one servo, and stapler machine, to actuate over the “pilot chair”.
+One of the most common micro controller is the <b>arduino</b> and we use the <b>Nano Version</b>. And we can control till <b>7 motors, one servo, and stapler machine</b>, to actuate over the “pilot chair”.
 
 <p align="center">
   <img  src="Documentation/media/hardwarejob.jpg" height="200"/>
@@ -165,7 +166,7 @@ This system is controlled by one stapler machine converted in a machine that pul
   <img  src="Documentation/media/silla5.jpg" height="200"/>
 </p>
 
-The Dlabs team is formed by 6 person with a very different skills, from student in electronics to electronic engineers or computing engineers, and all of us with the same passion, to hack  any thing, and learn all the possible related with technology, or science and arts too.
+The <b>Dlabs team</b> is formed by 6 person with a very different skills, from student in electronics to electronic engineers or computing engineers, and all of us with the same passion, to hack  any thing, and learn all the possible related with technology, or science and arts too.
 
 <a href ="https://www.dlabs.co"> Dlabs</a> is a non profit association and our philosophy is to share the new technologies, based 
 
