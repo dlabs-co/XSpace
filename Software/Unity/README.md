@@ -1,3 +1,6 @@
 # Unity + Oculus + LeapMotion + Arduino
 
-![Documentation](https://github.com/dlabs-co/XSpace/tree/master/Software/Unity/images/ConfigArduinity.png)
+<p align="center">
+  <img  src="Software/Unity/images/ConfigArduinity.png" width="300"/>
+</p>
+
