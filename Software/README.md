@@ -36,12 +36,11 @@ This audio assets are on our ![Audio Assets Folder](https://github.com/dlabs-co/
 Our first idea was transport a person to the <a href="https://www.youtube.com/watch?v=sTBIr65cL_E">moon landing </a> in a 3D environment, and feel like a person was on the suit travelling over it.
 
 The results were succesful enough for 36 hours. How much can we gain if we had more time? We work o it. 
-<p align="center">
-  <img  src="Unity/images/LunarModule.jpg" width="700"/>
-</p>
-
-
 
 <p align="center">
   <img  src="Unity/images/unityScenario.jpg" width="700"/>
+</p>
+
+<p align="center">
+  <img  src="Unity/images/LunarModule.jpg" width="700"/>
 </p>
