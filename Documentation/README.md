@@ -9,8 +9,8 @@ At first, we connect our working devices Leapmotion and Oculus in order to assur
 Software Team work with programming language in C# with Unity.
 
 <p align="center">
-  <img  src="media/softwareTeam.jpg" height="200"/>
-  <img  src="media/friendspace.jpg" height="200"/>
+  <img  src="media/friendspace.jpg" height="250"/>
+  <img  src="media/softwareTeam.jpg" height="250"/>
 </p>
 
 <p align="center">
@@ -22,14 +22,13 @@ Software Team work with programming language in C# with Unity.
 Har
 <h1>Hardware Team</h1>
 <p align="center">
-  <img  src="media/hardwarejob.jpg" height="200"/>
-  <img  src="media/HardwareTeam.png" height="200"/>
-  <img  src="media/HardwareTeam.png" height="200"/>
+  <img  src="media/BackChair.jpg" height="250"/>
+  <img  src="media/hardwarejob.jpg" height="250"/>
 </p>
 
 <p align="center">
   <img  src="media/SmokingChairman.png" height="200"/>
-  <img  src="media/morritos.jpg" height="200"/>
+  <img  src="media/Constructor.jpg" height="200"/>
   <img  src="media/Presi2.png" height="200"/>
 </p>
 
