@@ -21,7 +21,7 @@
 
 <h1>Space Stapler</h1>
 <p align="center">
-  <img  src="media/softdeveloper.jpg" height="200"/>
+  <img  src="media/ThinkingTeam.jpg" height="200"/>
 </p>
 
 <h1>SpaceApps Challenge</h1>
