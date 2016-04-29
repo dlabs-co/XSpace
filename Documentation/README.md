@@ -16,7 +16,7 @@ Software Team work with programming language in C# with Unity.
 <p align="center">
   <img  src="media/softdeveloper.jpg" height="200"/>
   <img  src="media/morritos.jpg" height="200"/>
-  <img  src="media/morritos.jpg" height="200"/>
+  <img  src="media/Presi2.png" height="200"/>
 </p>
 
 Har
@@ -26,6 +26,13 @@ Har
   <img  src="media/HardwareTeam.png" height="200"/>
   <img  src="media/HardwareTeam.png" height="200"/>
 </p>
+
+<p align="center">
+  <img  src="media/SmokingChairman.png" height="200"/>
+  <img  src="media/morritos.jpg" height="200"/>
+  <img  src="media/Presi2.png" height="200"/>
+</p>
+
 
 <h1>Space Stapler</h1>
 <p align="center">
