@@ -171,5 +171,5 @@ This system is controlled by one stapler machine converted in a machine that pul
 
 The <b>Dlabs team</b> is formed by 6 person with a very different skills, from student in electronics to electronic engineers or computing engineers, and all of us with the same passion, to hack  any thing, and learn all the possible related with technology, or science and arts too.
 
-<a href ="https://www.dlabs.co"> Dlabs</a> is a non profit association and our philosophy is to share the new technologies, based 
+<a href ="https://www.dlabs.co"> Dlabs</a> is a non profit association and our philosophy is to share the new technologies.
 
