@@ -18,7 +18,6 @@ Software Team have learned a lot with this new experience. This was the first ti
   <img  src="../Documentation/media/Presi2.png" height="200"/>
 </p>
 
-Har
 <h1>Hardware Team</h1>
 <p align="center">
   <img  src="../Documentation/media/BackChair.jpg" height="250"/>
