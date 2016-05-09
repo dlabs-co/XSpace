@@ -5,7 +5,7 @@
 
 <h1>Video - Click on the image </h1> 
 
-[![XSpace Video](Documentation/media/Space_Apps_2016.jpg)](https://www.youtube.com/watch?v=b8QlwMZV6AQ)
+[![XSpace Video](Documentation/media/Space_Apps_2016.jpg)](https://www.youtube.com/watch?v=GPN16ErFgqk)
 
 <br>
 ![Documentation](https://github.com/dlabs-co/XSpace/tree/master/Documentation)
